@@ -11,8 +11,8 @@ with open("LICENSE") as f:
 
 
 setup(
-    name="langdetect",
-    version="1.0.6",
+    name="langdetect-py",
+    version="1.1.1",
     description="Language detection library ported from Google's language-detection.",
     long_description=readme,
     author="DoodleBear",
